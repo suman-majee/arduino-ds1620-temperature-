@@ -5,6 +5,7 @@
 #endif
 #include "DS1620.h"
 
+// create a drag data
 // Configuration flag bitmasks.
 #define FLAG_DONE  0x80
 #define FLAG_THF   0x40
